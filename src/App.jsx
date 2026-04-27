@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 
-const ASSET_BASE = "/parnicka-portfolio";
+const ASSET_BASE = "/Portfolio/";
 
 export default function App() {
   const [activeStop, setActiveStop] = useState(0);
